@@ -140,7 +140,7 @@ checkColumns(SquareSize, Square, MagicNumber) ->
         false -> false
     end.
 %%----------------------------------------------------------------------
-%% Liefert eine Zeile eines magischen Quadrats.
+%% Liefert eine Spalte eines magischen Quadrats.
 %%
 %% Args:    Square      Das magische Quadrat.
 %%          RowLength   Die Anzahl Zeilen des magischen Quadrats.
